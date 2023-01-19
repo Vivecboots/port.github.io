@@ -1,0 +1,14 @@
+{
+  "name": "yeah",
+  "version": "1.0.0",
+  "description": "yup",
+  "main": "index.js",
+  "scripts": {
+    "test": "yo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.147.0"
+  }
+}
